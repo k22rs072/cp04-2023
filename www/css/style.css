@@ -34,6 +34,7 @@
     }
     
     #time {
+        margin: 0 auto;
         width: 50%;
         box-shadow: 5px 5px 5px white;
         color: #ff0000;
