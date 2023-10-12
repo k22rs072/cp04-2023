@@ -34,6 +34,7 @@
     }
     
     #time {
+
         margin: 0 auto;
         width: 50%;
         box-shadow: 5px 5px 5px white;
@@ -43,7 +44,9 @@
         position:absolute; top:340px; 
         left:10px; right:10px;
     }
-    
+    #time::after{
+        content: "秒";
+    }
     #mycanvas {
         color: #ffffff;
         font-size: 40px;
