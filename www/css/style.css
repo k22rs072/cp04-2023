@@ -5,6 +5,7 @@
     button{
         color: cyan;
         font-family: 'Times New Roman', Times, serif;
+        border-radius: 20px;
     }
     #minuteStr {
         color: #ff0000;
