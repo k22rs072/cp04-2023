@@ -4,6 +4,7 @@
     }
     button{
         color: cyan;
+        font-family: 'Times New Roman', Times, serif;
     }
     #minuteStr {
         color: #ff0000;
