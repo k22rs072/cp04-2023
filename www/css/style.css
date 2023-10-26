@@ -72,6 +72,12 @@
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
     
+    #btnD {
+        background-color: rgb(0, 204, 255);
+        color: rgb(15, 250, 74);
+        font-size: 20px;
+        position:absolute; top:510px; left:2%; width:43%; height:60px; 
+    }
     #minute {
         font-size: 30px;
         position:absolute; top:450px; left:60px; width:80px; height:40px;   
